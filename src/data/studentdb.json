@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "score": 85,
+    "course": "Computer Science",
+    "ispassed": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 22,
+    "score": 92,
+    "course": "Information Technology",
+    "ispassed": true
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 21,
+    "score": 68,
+    "course": "Software Engineering",
+    "ispassed": false
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 23,
+    "score": 74,
+    "course": "Data Science",
+    "ispassed": true
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "age": 19,
+    "score": 95,
+    "course": "Cyber Security",
+    "isPassed": true
+  },
+  {
+    "id": 6,
+    "name": "Mark Anthony",
+    "age": 21,
+    "course": "Computer Science",
+    "score": 88,
+    "isPassed": true
+  },
+  {
+    "id": 7,
+    "name": "Mark Anthony",
+    "age": 21,
+    "course": "Computer Science",
+    "score": 88,
+    "isPassed": true
+  },
+  {
+    "id": 8,
+    "name": "Mark Anthony",
+    "age": 21,
+    "course": "Computer Science",
+    "score": 88,
+    "isPassed": true
+  }
+]
